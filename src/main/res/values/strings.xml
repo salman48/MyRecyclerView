@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">My RecyclerView</string>
+
+    <string-array name="movies_name">
+
+
+        <item>SpaceOdyessey</item>
+        <item>Avengers</item>
+        <item>Gravity</item>
+        <item>Inception</item>
+        <item>JohnWick</item>
+        <item>Revenant</item>
+        <item>TheMartian</item>
+        <item>AntMan</item>
+        <item>Thor</item>
+        <item>Conjuring</item>
+        <item>Titanic</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>Science Fiction</item>
+        <item>Science Fiction</item>
+        <item>Survival</item>
+        <item>Science Fiction</item>
+        <item>Mystry</item>
+        <item>Survival</item>
+        <item>Thriller</item>
+        <item>Thriller</item>
+        <item>Sci Fi</item>
+        <item>Horror</item>
+        <item>Love Story</item>
+    </string-array>
+</resources>
